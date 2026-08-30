@@ -1,6 +1,6 @@
 # Financial Data Science
 
-Problem sets from the Financial Data Science course.
+Problem sets from the Financial Data Science course Summer Semester 26.
 
 | | Topic |
 |---|---|
